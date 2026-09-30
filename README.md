@@ -25,7 +25,8 @@
 <br/>
 
 <div align="center">
-###  🌱 通往财务自由之路
+
+### 🌱 通往财务自由之路
 
 📚 学习 → 💡 思考 → 📈 投资 → 🏝 自由
 
@@ -52,67 +53,67 @@
 
 全球销量第一的理财书籍，已被翻译成 50 多种语言，销量达数千万册。这本书帮助你直观理解"富人思维"与"穷人思维"的区别，并建立对现金流和资产的基础认知。
 
-📖**[《小狗钱钱》博多·舍费尔，豆瓣评分：9.2](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1%E3%80%8B.pdf)**
+📖 **[《小狗钱钱》博多·舍费尔，豆瓣评分：9.2](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1%E3%80%8B.pdf)**
 
 欧洲最畅销的理财书籍。内容简单易懂，讲解了如何从年少时就开始管理金钱，而不是被金钱所支配；如何像富人一样思考、正确认识和运用金钱；以及如何投资，找到正确积累财富的途径，尽早实现财务自由。
 
-📖**[《穷查理宝典》彼得·D.考夫曼，豆瓣评分：8.6](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E7%A9%B7%E6%9F%A5%E7%90%86%E5%AE%9D%E5%85%B8%E3%80%8B.pdf)**
+📖 **[《穷查理宝典》彼得·D.考夫曼，豆瓣评分：8.6](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E7%A9%B7%E6%9F%A5%E7%90%86%E5%AE%9D%E5%85%B8%E3%80%8B.pdf)**
 
 这本书记录了查理·芒格的完整传记和投资哲学，以及他过去 20 年来的重要公开演讲和媒体访谈，涵盖了投资评估流程、投资原则清单、投资建议等内容。
 
-📖**[《纳瓦尔宝典》埃里克·乔根森，豆瓣评分：8.4](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E7%BA%B3%E7%93%A6%E5%B0%94%E5%AE%9D%E5%85%B8%E3%80%8B.pdf)**
+📖 **[《纳瓦尔宝典》埃里克·乔根森，豆瓣评分：8.4](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E7%BA%B3%E7%93%A6%E5%B0%94%E5%AE%9D%E5%85%B8%E3%80%8B.pdf)**
 
 这本书汇集了纳瓦尔（Naval）在 Twitter、博客和访谈中的内容，于 2022 年出版，其观点时至今日仍有很强的参考价值。赚钱不在于拼命努力，而在于充分利用杠杆。
 
-📖**[《投资中最简单的事》邱国鹭，豆瓣评分：8.7](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E6%8A%95%E8%B5%84%E4%B8%AD%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E4%BA%8B%E3%80%8B.pdf)**
+📖 **[《投资中最简单的事》邱国鹭，豆瓣评分：8.7](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E6%8A%95%E8%B5%84%E4%B8%AD%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E4%BA%8B%E3%80%8B.pdf)**
 
 一本难得的华人作者高水准理财书。书中提出了普通人也能理解的简单可行的投资原则，例如"便宜是唯一硬道理""数月亮不数星星"。作者关于选股、时机和估值的观点尤其契合巴菲特的价值投资理念。
 
-📖**[《聪明的投资者》本杰明·格雷厄姆，豆瓣评分：8.8](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E8%81%AA%E6%98%8E%E7%9A%84%E6%8A%95%E8%B5%84%E8%80%85%E3%80%8B(%E7%BE%8E)%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86.pdf)**
+📖 **[《聪明的投资者》本杰明·格雷厄姆，豆瓣评分：8.8](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E8%81%AA%E6%98%8E%E7%9A%84%E6%8A%95%E8%B5%84%E8%80%85%E3%80%8B(%E7%BE%8E)%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86.pdf)**
 
 投资实践领域一部世界级、影响一个世纪的经典之作，常被称为股市"圣经"。作者本杰明·格雷厄姆是"华尔街之父"，也是巴菲特的老师。书中分别介绍了防御型和进取型投资者的投资组合策略。
 
-📖**[《指数基金投资指南》"银行螺丝钉"（雪球大V），豆瓣评分：8.2](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91%E6%8A%95%E8%B5%84%E6%8C%87%E5%8D%97%E3%80%8B.pdf)**
+📖 **[《指数基金投资指南》"银行螺丝钉"（雪球大V），豆瓣评分：8.2](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91%E6%8A%95%E8%B5%84%E6%8C%87%E5%8D%97%E3%80%8B.pdf)**
 
 专注于低估值指数基金投资，系统讲解了各类指数基金及其有效的投资策略，教你"买什么、怎么买；卖什么、怎么卖"。
 
 ## （中级）
 
-📖**[《投资最重要的事》霍华德·马克斯，豆瓣评分：8.7](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E6%8A%95%E8%B5%84%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%8B%E3%80%8B.pdf)**
+📖 **[《投资最重要的事》霍华德·马克斯，豆瓣评分：8.7](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E6%8A%95%E8%B5%84%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%8B%E3%80%8B.pdf)**
 
 核心概念包括"第二层思维"、价格与价值的关系、耐心等待机会以及多元化投资。书中鼓励投资者做"逆向投资者"，明智地判断市场周期，并采取大胆而谨慎的行动以获得回报。
 
-📖**[《证券分析》本杰明·格雷厄姆，豆瓣评分：9.0](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E8%AF%81%E5%88%B8%E5%88%86%E6%9E%90%E3%80%8B%E6%9C%AC%E6%9D%B0%E6%98%8E%E2%80%A2%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86.pdf)**
+📖 **[《证券分析》本杰明·格雷厄姆，豆瓣评分：9.0](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E8%AF%81%E5%88%B8%E5%88%86%E6%9E%90%E3%80%8B%E6%9C%AC%E6%9D%B0%E6%98%8E%E2%80%A2%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86.pdf)**
 
 这本书曾是巴菲特大学课程使用的教材，系统阐述了价值投资的实践方法，堪称经典中的经典，畅销长达八十年之久。
 
-📖**《股市投资进阶之道》李杰，豆瓣评分：8.7**
+📖 **《股市投资进阶之道》李杰，豆瓣评分：8.7**
 
 这本书为个人投资者而写，凝结了作者数十年的投资经验。全书核心内容分为三大部分，分别对应投资之道、价值之本和估值之谜。
 
-📖**[《怎样选择成长股》菲利普·A.费雪，豆瓣评分：8.7](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E6%80%8E%E6%A0%B7%E9%80%89%E6%8B%A9%E6%88%90%E9%95%BF%E8%82%A1%E3%80%8B.pdf)**
+📖 **[《怎样选择成长股》菲利普·A.费雪，豆瓣评分：8.7](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E6%80%8E%E6%A0%B7%E9%80%89%E6%8B%A9%E6%88%90%E9%95%BF%E8%82%A1%E3%80%8B.pdf)**
 
 作者菲利普·A·费雪被誉为"成长股投资之父"，是华尔街最受尊敬和推崇的投资者之一。他的投资理念深刻影响了巴菲特、彼得·林奇等投资大师。
 
-📖**[《一本书读懂财报（全新修订版）》肖星，豆瓣评分：8.9](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E4%B8%80%E6%9C%AC%E4%B9%A6%E8%AF%BB%E6%87%82%E8%B4%A2%E6%8A%A5%EF%BC%88%E5%85%A8%E6%96%B0%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%89%E3%80%8B.pdf)**
+📖 **[《一本书读懂财报（全新修订版）》肖星，豆瓣评分：8.9](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E4%B8%80%E6%9C%AC%E4%B9%A6%E8%AF%BB%E6%87%82%E8%B4%A2%E6%8A%A5%EF%BC%88%E5%85%A8%E6%96%B0%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%89%E3%80%8B.pdf)**
 
 这本书是解读与分析财务报表的经典之作，被读者誉为"我读过的最好的财务入门书"。全书从如何阅读资产负债表、损益表和现金流量表这三大财务报表以及它们之间的关系讲起。
 
 ## （高级）
 
-📖**[《资产配置的艺术》戴维·M.达斯特，豆瓣评分：7.5](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E8%B5%84%E4%BA%A7%E9%85%8D%E7%BD%AE%E7%9A%84%E8%89%BA%E6%9C%AF(%E9%AB%98%E6%B8%85)%E3%80%8B.pdf)**
+📖 **[《资产配置的艺术》戴维·M.达斯特，豆瓣评分：7.5](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E8%B5%84%E4%BA%A7%E9%85%8D%E7%BD%AE%E7%9A%84%E8%89%BA%E6%9C%AF(%E9%AB%98%E6%B8%85)%E3%80%8B.pdf)**
 
 达斯特（Darst）是摩根士丹利投资集团的创始人，被誉为"资产配置第一人"。书中系统讲解了如何运用现代资产配置理念，组合股票、债券、现金、黄金和房地产等资产。
 
-📖**[《乌合之众：大众心理研究》古斯塔夫·勒庞，豆瓣评分：8.8](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E4%B9%8C%E5%90%88%E4%B9%8B%E4%BC%97%E3%80%8B%E5%8F%A4%E6%96%AF%E5%A1%94%E5%A4%AB%C2%B7%E5%8B%92%E5%BA%9E.pdf)**
+📖 **[《乌合之众：大众心理研究》古斯塔夫·勒庞，豆瓣评分：8.8](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E4%B9%8C%E5%90%88%E4%B9%8B%E4%BC%97%E3%80%8B%E5%8F%A4%E6%96%AF%E5%A1%94%E5%A4%AB%C2%B7%E5%8B%92%E5%BA%9E.pdf)**
 
 社会心理学领域最具影响力的著作，精妙地描绘了群体心态。书中基于群体心理学理论，并将其应用于投资市场，以避免随市场剧烈波动而产生情绪波动，防止冲动操作。
 
-📖**[《股票作手回忆录》埃德温·勒菲夫，豆瓣评分：8.8](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E8%82%A1%E7%A5%A8%E4%BD%9C%E6%89%8B%E5%9B%9E%E5%BF%86%E5%BD%95%E3%80%8B.pdf)**
+📖 **[《股票作手回忆录》埃德温·勒菲夫，豆瓣评分：8.8](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E8%82%A1%E7%A5%A8%E4%BD%9C%E6%89%8B%E5%9B%9E%E5%BF%86%E5%BD%95%E3%80%8B.pdf)**
 
 《股票作手回忆录》是巴菲特指定的股市教材，记录了美国股市史上传奇人物——被誉为"华尔街大熊"的杰西·利弗莫尔（Jesse Livermore）的投资生涯。
 
-📖**[《股市长线法宝（原著第5版）》杰里米·西格尔，豆瓣评分：8.6](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E8%82%A1%E5%B8%82%E9%95%BF%E7%BA%BF%E6%B3%95%E5%AE%9D%EF%BC%88%E5%8E%9F%E4%B9%A6%E7%AC%AC5%E7%89%88%EF%BC%89%E3%80%8B.pdf)**
+📖 **[《股市长线法宝（原著第5版）》杰里米·西格尔，豆瓣评分：8.6](https://github.com/codeman008/Financial_freedom/blob/main/%E3%80%8A%E8%82%A1%E5%B8%82%E9%95%BF%E7%BA%BF%E6%B3%95%E5%AE%9D%EF%BC%88%E5%8E%9F%E4%B9%A6%E7%AC%AC5%E7%89%88%EF%BC%89%E3%80%8B.pdf)**
 
 《股市长线法宝》被列为有史以来最优秀的十本投资书籍之一。巴菲特曾这样评价这本书："这是一本宝贵的股市投资指南。投资者应当认真研究杰里米·西格尔的新发现和新观念。"
 
